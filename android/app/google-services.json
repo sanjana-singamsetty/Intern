@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906760199257",
+    "project_id": "internship-e400f",
+    "storage_bucket": "internship-e400f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906760199257:android:4daf3f3839aa3a79d7e548",
+        "android_client_info": {
+          "package_name": "com.example.firstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906760199257-uhk2bo0cd968aqv983s3f7a78os5e01t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7y1KwRBbVUnxAZ6pGfgfLHf3PtR45U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906760199257-uhk2bo0cd968aqv983s3f7a78os5e01t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
